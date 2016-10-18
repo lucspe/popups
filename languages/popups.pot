@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Popups\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
-"POT-Creation-Date: 2016-02-04 13:02+0100\n"
+"POT-Creation-Date: 2016-10-16 19:48+0200\n"
 "PO-Revision-Date: 2015-06-14 00:02-0300\n"
 "Last-Translator: Damian Logghe <info@timersys.com>\n"
 "Language-Team: Timersys <info@timersys.com>\n"
@@ -13,203 +13,215 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.5\n"
+"X-Generator: Poedit 1.8.9\n"
 "X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
 "esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: admin/class-social-popup-admin.php:159
+#: admin/class-social-popup-admin.php:162
 msgctxt "post type singular name"
 msgid "Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:160
+#: admin/class-social-popup-admin.php:163
 msgctxt "admin menu"
 msgid "Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:161
+#: admin/class-social-popup-admin.php:164
 msgctxt "add new on admin bar"
 msgid "Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:162
+#: admin/class-social-popup-admin.php:165
 msgctxt "Popups"
 msgid "Add New"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:163
+#: admin/class-social-popup-admin.php:166
 msgid "Add New Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:164
+#: admin/class-social-popup-admin.php:167
 msgid "New Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:165
+#: admin/class-social-popup-admin.php:168
 msgid "Edit Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:166
+#: admin/class-social-popup-admin.php:169
 msgid "View Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:167
+#: admin/class-social-popup-admin.php:170
 msgid "All Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:168
+#: admin/class-social-popup-admin.php:171
 msgid "Search Popups"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:169
+#: admin/class-social-popup-admin.php:172
 msgid "Parent Popups:"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:170
+#: admin/class-social-popup-admin.php:173
 msgid "No Popups found."
 msgstr ""
 
-#: admin/class-social-popup-admin.php:171
+#: admin/class-social-popup-admin.php:174
 msgid "No Popups found in Trash."
 msgstr ""
 
-#: admin/class-social-popup-admin.php:212
+#: admin/class-social-popup-admin.php:215
 msgid "Settings"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:260
+#: admin/class-social-popup-admin.php:263
 msgid "Popups Premium"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:271
+#: admin/class-social-popup-admin.php:274
 msgid "PopUp Shortcodes"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:280
+#: admin/class-social-popup-admin.php:283
 msgid "PopUp Appearance"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:289
+#: admin/class-social-popup-admin.php:292
 msgid "PopUp Display Rules"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:298
+#: admin/class-social-popup-admin.php:301
 msgid "Display Options"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:307
+#: admin/class-social-popup-admin.php:310
 msgid "Need support?"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:315
+#: admin/class-social-popup-admin.php:318
 msgid "Donate & support"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:323
+#: admin/class-social-popup-admin.php:326
 msgid "About the developer"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:589
+#: admin/class-social-popup-admin.php:596
 #: admin/views/metaboxes/metabox-rules.php:33
-#: admin/views/metaboxes/metabox-rules.php:106
-msgid "or"
+#: admin/views/metaboxes/metabox-rules.php:96
+msgid "OR"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:616
+#: admin/class-social-popup-admin.php:623
 msgid "Add a Popup"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:740
+#: admin/class-social-popup-admin.php:747
 msgid "User"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:741
+#: admin/class-social-popup-admin.php:748
 msgid "User role"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:742
+#: admin/class-social-popup-admin.php:749
 msgid "User is logged"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:743
+#: admin/class-social-popup-admin.php:750
 msgid "User never left a comment"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:744
+#: admin/class-social-popup-admin.php:751
 msgid "User came via a search engine"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:745
+#: admin/class-social-popup-admin.php:752
 msgid "User did not arrive via another page on your site"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:747
-#: admin/class-social-popup-admin.php:748
+#: admin/class-social-popup-admin.php:754
+#: admin/class-social-popup-admin.php:755
 msgid "Post"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:749
+#: admin/class-social-popup-admin.php:756
 msgid "Post ID"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:750
+#: admin/class-social-popup-admin.php:757
 msgid "Post Type"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:751
+#: admin/class-social-popup-admin.php:758
 msgid "Post Category"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:752
+#: admin/class-social-popup-admin.php:759
 msgid "Post Format"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:753
+#: admin/class-social-popup-admin.php:760
 msgid "Post Status"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:754
+#: admin/class-social-popup-admin.php:761
 msgid "Post Taxonomy"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:756
-#: admin/class-social-popup-admin.php:757
+#: admin/class-social-popup-admin.php:763
+#: admin/class-social-popup-admin.php:764
 msgid "Page"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:758
+#: admin/class-social-popup-admin.php:765
 msgid "Page Type"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:759
+#: admin/class-social-popup-admin.php:766
 msgid "Page Parent"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:760
+#: admin/class-social-popup-admin.php:767
 msgid "Page Template"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:762
+#: admin/class-social-popup-admin.php:769
 msgid "Other"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:763
+#: admin/class-social-popup-admin.php:770
 msgid "Referrer"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:764
+#: admin/class-social-popup-admin.php:771
 msgid "Mobile Phone"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:765
+#: admin/class-social-popup-admin.php:772
 msgid "Tablet"
 msgstr ""
 
-#: admin/class-social-popup-admin.php:813
+#: admin/class-social-popup-admin.php:773
+msgid "Dekstop"
+msgstr ""
+
+#: admin/class-social-popup-admin.php:825
+msgid "On / Off"
+msgstr ""
+
+#: admin/class-social-popup-admin.php:827
 msgid "ID"
+msgstr ""
+
+#: admin/class-social-popup-admin.php:828
+msgid "Trigger class"
 msgstr ""
 
 #: admin/includes/class-spu-notices.php:30
@@ -228,7 +240,7 @@ msgstr ""
 
 #: admin/includes/class-spu-notices.php:33
 #, php-format
-msgid "<a href=\"%s\">No, thanks</a>"
+msgid "<a href=\"%s\">I already did</a>"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-appearance.php:10
@@ -257,6 +269,10 @@ msgstr ""
 
 #: admin/views/metaboxes/metabox-appearance.php:36
 msgid "Border width"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-appearance.php:43
+msgid "Custom CSS"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-donate.php:6
@@ -377,7 +393,7 @@ msgid "View Twitter Options"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-help.php:50
-msgid "Your Twitter user <b>Default chifliiiii</b>"
+msgid "Your Twitter user <b>Default value: </b>"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-help.php:51
@@ -479,77 +495,81 @@ msgstr ""
 msgid "of page height"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:38
-msgid "Auto-hide?"
+#: admin/views/metaboxes/metabox-options.php:29
+msgid "Manual Triggering"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:40
-#: admin/views/metaboxes/metabox-options.php:68
-#: admin/views/metaboxes/metabox-options.php:76
-#: admin/views/metaboxes/metabox-options.php:84
-msgid "Yes"
+#: admin/views/metaboxes/metabox-options.php:39
+msgid "Auto-hide?"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-options.php:41
 #: admin/views/metaboxes/metabox-options.php:69
 #: admin/views/metaboxes/metabox-options.php:77
 #: admin/views/metaboxes/metabox-options.php:85
-msgid "No"
+msgid "Yes"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-options.php:42
+#: admin/views/metaboxes/metabox-options.php:70
+#: admin/views/metaboxes/metabox-options.php:78
+#: admin/views/metaboxes/metabox-options.php:86
+msgid "No"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-options.php:43
 msgid "Hide box again when visitors scroll back up?"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:46
+#: admin/views/metaboxes/metabox-options.php:47
 msgid "Animation"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:49
+#: admin/views/metaboxes/metabox-options.php:50
 msgid "Fade In"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:50
+#: admin/views/metaboxes/metabox-options.php:51
 msgid "Slide In"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:53
+#: admin/views/metaboxes/metabox-options.php:54
 msgid "Slide will only apply when popup is on the corners"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:58
+#: admin/views/metaboxes/metabox-options.php:59
 msgid "Cookie expiration days"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:61
+#: admin/views/metaboxes/metabox-options.php:62
 msgid "After closing the box, how many days should it stay hidden?"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:66
+#: admin/views/metaboxes/metabox-options.php:67
 msgid "Enable test mode?"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:70
+#: admin/views/metaboxes/metabox-options.php:71
 msgid ""
 "If test mode is enabled, the box will show up regardless of whether a cookie "
 "has been set. (To admins only)"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:74
+#: admin/views/metaboxes/metabox-options.php:75
 msgid "Close on conversion?"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:78
+#: admin/views/metaboxes/metabox-options.php:79
 msgid ""
 "If you have a form or social shortcode, by default popup will close on "
 "submission/conversion"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:82
+#: admin/views/metaboxes/metabox-options.php:83
 msgid "Show powered by link?"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-options.php:86
+#: admin/views/metaboxes/metabox-options.php:87
 #, php-format
 msgid ""
 "Shows a \"powered by\" link below your popup. If your affiliate link is set "
@@ -571,7 +591,9 @@ msgid "Beautiful optin forms for popular mail providers"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-premium.php:20
-msgid "Currently supporting MailChimp, Aweber, Postmatic, Mailpoet"
+msgid ""
+"Currently supporting MailChimp, Aweber, Postmatic, Mailpoet, Constant "
+"Contact, ActiveCampaign, Newsletter plugin"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-premium.php:21
@@ -585,37 +607,58 @@ msgid "Track impressions and Conversions also in Google Analytics"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-premium.php:23
-#: admin/views/metaboxes/metabox-premium.php:25
+#: admin/views/metaboxes/metabox-premium.php:26
 msgid "Exit Intent technology"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-premium.php:24
+msgid ""
+"New popup positions: top/bottoms bars , fullscreen mode, after post content"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-premium.php:25
 msgid "8 New animations effects"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-premium.php:26
+#: admin/views/metaboxes/metabox-premium.php:27
 msgid "New trigger methods"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-premium.php:27
-msgid "Timer for auto closing"
-msgstr ""
-
 #: admin/views/metaboxes/metabox-premium.php:28
-msgid "Ability to disable close button"
+msgid "More Display Rules: Show after N(numbers) of pages viewed"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-premium.php:29
+msgid "More Display Rules: Show popup at certain time"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-premium.php:30
+msgid "More Display Rules: Show popup at certain day"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-premium.php:31
+msgid "More Display Rules: Show/hide if another popup already converted"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-premium.php:32
+msgid "Timer for auto closing"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-premium.php:33
+msgid "Ability to disable close button"
+msgstr ""
+
+#: admin/views/metaboxes/metabox-premium.php:34
 msgid ""
 "Ability to disable Advanced close methods like esc or clicking outside of "
 "the popup"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-premium.php:30
+#: admin/views/metaboxes/metabox-premium.php:35
 msgid "Premium support"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-premium.php:34
+#: admin/views/metaboxes/metabox-premium.php:39
 msgid "Buy Now!"
 msgstr ""
 
@@ -631,20 +674,12 @@ msgstr ""
 msgid "Show this popup if"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-rules.php:61
-msgid "is equal to"
+#: admin/views/metaboxes/metabox-rules.php:83
+msgid "+ AND"
 msgstr ""
 
-#: admin/views/metaboxes/metabox-rules.php:62
-msgid "is not equal to"
-msgstr ""
-
-#: admin/views/metaboxes/metabox-rules.php:93
-msgid "and"
-msgstr ""
-
-#: admin/views/metaboxes/metabox-rules.php:108
-msgid "Add rule group"
+#: admin/views/metaboxes/metabox-rules.php:98
+msgid "Add rule group (+ OR)"
 msgstr ""
 
 #: admin/views/metaboxes/metabox-support.php:6
@@ -746,78 +781,66 @@ msgstr ""
 msgid "Save settings"
 msgstr ""
 
-#: includes/class-spu-helper.php:131
+#: includes/class-spu-helper.php:52
+msgid "is equal to"
+msgstr ""
+
+#: includes/class-spu-helper.php:53
+msgid "is not equal to"
+msgstr ""
+
+#: includes/class-spu-helper.php:57
+msgid "less than"
+msgstr ""
+
+#: includes/class-spu-helper.php:58
+msgid "greater than"
+msgstr ""
+
+#: includes/class-spu-helper.php:189
 msgid "All Pages"
 msgstr ""
 
-#: includes/class-spu-helper.php:132
+#: includes/class-spu-helper.php:190
 msgid "Front Page"
 msgstr ""
 
-#: includes/class-spu-helper.php:133
+#: includes/class-spu-helper.php:191
 msgid "Posts Page"
 msgstr ""
 
-#: includes/class-spu-helper.php:134
+#: includes/class-spu-helper.php:192
 msgid "Category Page"
 msgstr ""
 
-#: includes/class-spu-helper.php:135
+#: includes/class-spu-helper.php:193
 msgid "Search Page"
 msgstr ""
 
-#: includes/class-spu-helper.php:136
+#: includes/class-spu-helper.php:194
 msgid "Archives Page"
 msgstr ""
 
-#: includes/class-spu-helper.php:137
+#: includes/class-spu-helper.php:195
 msgid "Top Level Page (parent of 0)"
 msgstr ""
 
-#: includes/class-spu-helper.php:138
+#: includes/class-spu-helper.php:196
 msgid "Parent Page (has children)"
 msgstr ""
 
-#: includes/class-spu-helper.php:139
+#: includes/class-spu-helper.php:197
 msgid "Child Page (has parent)"
 msgstr ""
 
-#: includes/class-spu-helper.php:147
+#: includes/class-spu-helper.php:205
 msgid "Default Template"
 msgstr ""
 
-#: includes/class-spu-helper.php:220
-msgid "Publish"
-msgstr ""
-
-#: includes/class-spu-helper.php:221
-msgid "Pending Review"
-msgstr ""
-
-#: includes/class-spu-helper.php:222
-msgid "Draft"
-msgstr ""
-
-#: includes/class-spu-helper.php:223
-msgid "Future"
-msgstr ""
-
-#: includes/class-spu-helper.php:224
-msgid "Private"
-msgstr ""
-
-#: includes/class-spu-helper.php:225
-msgid "Revision"
-msgstr ""
-
-#: includes/class-spu-helper.php:226
-msgid "Trash"
-msgstr ""
-
-#: includes/class-spu-helper.php:239
+#: includes/class-spu-helper.php:289
 msgid "Super Admin"
 msgstr ""
 
-#: includes/class-spu-helper.php:259
+#: includes/class-spu-helper.php:310
 msgid "True"
 msgstr ""
